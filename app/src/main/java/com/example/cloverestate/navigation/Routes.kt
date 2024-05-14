@@ -1,0 +1,17 @@
+package com.example.cloverestate.navigation
+
+const val HOME_URL = "home"
+const val SIGNUP_URL = "signup"
+const val LOGIN_URL = "login"
+const val ADD_PRODUCTS_URL = "add_products"
+const val VIEW_PRODUCTS_URL = "view_products"
+const val ROUT_SPLASH = "Splash"
+const val ROUT_MAIN = "Main"
+const val ROUT_BUY = "Buy"
+const val ROUT_RENT = "Rent"
+const val ROUT_ROOM1= "Room1"
+const val ROUT_ROOM2= "Room2"
+const val ROUT_ROOM3= "Room3"
+const val ROUT_MPESA= "Mpesa"
+const val ROUT_NOTIFICATION= "Notification"
+const val ROUT_ABOUT= "About"

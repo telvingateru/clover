@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207622961035",
+    "project_id": "clover-estate",
+    "storage_bucket": "clover-estate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207622961035:android:99c66d9b7009defefb218e",
+        "android_client_info": {
+          "package_name": "com.example.cloverestate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTjJ0Lc5rnEbgE2mJx_lUlOweu6R-9E4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
